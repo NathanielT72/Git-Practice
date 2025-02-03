@@ -1,2 +1,2 @@
 # Git-Practice
-my favorite snack is vegetables
+my favorite snack is fruit
